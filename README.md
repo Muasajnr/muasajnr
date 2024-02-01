@@ -19,7 +19,9 @@ With a wealth of experience, I specialize in crafting Web-Based Software, Androi
 
 #### 🙉 - Backend:
 ![PHP](https://img.shields.io/badge/Php-43853D.svg?style=for-the-badge&logo=php.js&logoColor=white)
+![◾️](https://img.shields.io/badge/PHP-404D59?style=for-the-badge&logo=php&logoColor=white)
 ![◾️](https://img.shields.io/badge/Python-404D59?style=for-the-badge&logo=python&logoColor=white)
+![◾️](https://img.shields.io/badge/Django-404D59?style=for-the-badge&logo=django&logoColor=white)
 
 #### 🙊 - Database:
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
