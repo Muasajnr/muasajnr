@@ -18,11 +18,11 @@ With a wealth of experience, I specialize in crafting Web-Based Software, Androi
 ![ReactJS](https://img.shields.io/badge/-ReactJS-%2361DAFB?style=for-the-badge&logo=react&logoColor=white)
 
 #### 🙉 - Backend:
-![PHP](https://img.shields.io/badge/Php-43853D.svg?style=for-the-badge&logo=php.js&logoColor=white)
 ![◾️](https://img.shields.io/badge/PHP-404D59?style=for-the-badge&logo=php&logoColor=white)
 ![◾️](https://img.shields.io/badge/Laravel-404D59?style=for-the-badge&logo=laravel&logoColor=white)
 ![◾️](https://img.shields.io/badge/Python-404D59?style=for-the-badge&logo=python&logoColor=white)
 ![◾️](https://img.shields.io/badge/Django-404D59?style=for-the-badge&logo=django&logoColor=white)
+![PHP](https://img.shields.io/badge/node.js-43853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
 
 #### 🙊 - Database:
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
