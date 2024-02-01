@@ -37,12 +37,12 @@ In the ever-evolving landscape of technology, my skill set serves as a testament
 ![Github](https://img.shields.io/badge/github-646CFF?style=for-the-badge&logo=github&logoColor=white)
 ![vercel](https://img.shields.io/badge/vercel-FF6C37?style=for-the-badge&logo=vercel&logoColor=white)
 
+### Content Management Systems (CMS)
+![Wordpress](https://img.shields.io/badge/wordpress-E95420?style=for-the-badge&logo=wordpress&logoColor=white)
+
 ### Mobile App Development:
 ![Flutter](https://img.shields.io/badge/flutter-E95420?style=for-the-badge&logo=flutter&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-E95420?style=for-the-badge&logo=kotlin&logoColor=white)
-
-### Content Management Systems (CMS)
-![Wordpress](https://img.shields.io/badge/wordpress-E95420?style=for-the-badge&logo=wordpress&logoColor=white)
 
 ### DevOps ♾️:
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
