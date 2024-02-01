@@ -70,10 +70,12 @@ Let's turn ideas into reality!
 ### Contact Me
 <a href="mailto:elmmwas7@gmail.com">
   <i class="fas fa-envelope"></i> Email
-</a>
-<a href="https://wa.me/0795147990" target="_blank">
+</a> <br>
+
+<a href="https://wa.me/+254795147990" target="_blank">
   <i class="fab fa-whatsapp"></i> WhatsApp
-</a>
+</a><br>
+
 <a href="tel:+0795147990">
   <i class="fas fa-phone"></i> Call/sms
 </a>
