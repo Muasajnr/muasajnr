@@ -64,10 +64,16 @@ In the ever-evolving landscape of technology, my skill set serves as a testament
 ![Remix](https://img.shields.io/badge/remix-000000?style=for-the-badge&logo=remix&logoColor=white)  
 
 As a freelance professional, I am available to embark on exciting projects and collaborations. I take pride in delivering results that exceed expectations and contribute to the success of every venture.
-Feel free to reach out to me if you have a project in mind, a question to ask, or just want to connect. I'm enthusiastic about the possibilities that technology offers and look forward to contributing my skills to create impactful solutions.
+Feel free to reach out to me if you have a project in mind, a question to ask, a relevant business or just want to connect. I'm enthusiastic about the possibilities that technology offers and look forward to contributing my skills to create impactful solutions.
 Let's turn ideas into reality!
 
 ### Contact Me
 <a href="mailto:elmmwas7@gmail.com">
   <i class="fas fa-envelope"></i> Email
+</a>
+<a href="https://wa.me/0795147990" target="_blank">
+  <i class="fab fa-whatsapp"></i> WhatsApp
+</a>
+<a href="tel:+0795147990">
+  <i class="fas fa-phone"></i> Call/sms
 </a>
