@@ -25,8 +25,9 @@ With a wealth of experience, I specialize in crafting Web-Based Software, Androi
 ![PHP](https://img.shields.io/badge/node.js-43853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
 
 #### 🙊 - Database:
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
 
 #### 🐵 - Hosting Services and Web Tools:
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
@@ -57,8 +58,8 @@ With a wealth of experience, I specialize in crafting Web-Based Software, Androi
 ![Pycharm](https://img.shields.io/badge/pycharm-F9AB00?style=for-the-badge&logo=pycharm&color=525252)
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![InteliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)  
+![Blackbox](https://img.shields.io/badge/blackbox-0052CC?style=for-the-badge&logo=blackbox&logoColor=white)
+![Remix](https://img.shields.io/badge/remix-000000?style=for-the-badge&logo=remix&logoColor=white)  
 
 As a freelance professional, I am available to embark on exciting projects and collaborations. I take pride in delivering results that exceed expectations and contribute to the success of every venture.
 Feel free to reach out to me if you have a project in mind, a question to ask, or just want to connect. I'm enthusiastic about the possibilities that technology offers and look forward to contributing my skills to create impactful solutions.
