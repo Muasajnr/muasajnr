@@ -53,8 +53,8 @@ With a wealth of experience, I specialize in crafting Web-Based Software, Androi
 
 ### IDEs and Tools 🛠:
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
+![Canva](https://img.shields.io/badge/canva-000000?style=for-the-badge&logo=canva&logoColor=white)
+![Pycharm](https://img.shields.io/badge/pycharm-F9AB00?style=for-the-badge&logo=pycharm&color=525252)
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![InteliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
