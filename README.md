@@ -64,6 +64,7 @@ In the ever-evolving landscape of technology, my skill set serves as a testament
 ![Remix](https://img.shields.io/badge/remix-000000?style=for-the-badge&logo=remix&logoColor=white)  
 
 As a freelance professional, I am available to embark on exciting projects and collaborations. I take pride in delivering results that exceed expectations and contribute to the success of every venture.
+
 Feel free to reach out to me if you have a project in mind, a question to ask, a relevant business or just want to connect. I'm enthusiastic about the possibilities that technology offers and look forward to contributing my skills to create impactful solutions.
 Let's turn ideas into reality!
 
@@ -79,3 +80,7 @@ Let's turn ideas into reality!
 <a href="tel:+0795147990">
   <i class="fas fa-phone"></i> Call/sms : 0795147990
 </a>
+
+# <a href="https://muasajnr.github.io/DanielMuasa/"> Portfolio & Resume </a>
+
+
