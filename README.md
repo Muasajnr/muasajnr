@@ -1,6 +1,11 @@
-# Bad luck for you all my repos are private 😓
+Greetings🙋‍♀️
+My name is 
+# Daniel Muasa
+I'm a vibrant and innovative software craftsman based in Nairobi, Kenya. My passion lies in the dynamic intersection of technology and creativity, where I thrive as a UI/UX Designer and Fullstack Software Developer.
 
-<p>&nbsp;<img align="center" src="https://readmestats.999857.xyz/api?username=LilaLio&show_icons=true&locale=en&theme=tokyonight" alt="LilaLio" /></p>
+With a wealth of experience, I specialize in crafting Web-Based Software, Android Applications, and captivating UI/UX Designs. My journey in the tech world is marked by a commitment to pushing boundaries and delivering high-quality solutions that make a difference.
+
+<p>&nbsp;<img align="center" src="https://readmestats.999857.xyz/api?username=muasajnr&show_icons=true&locale=en&theme=tokyonight" alt="Muasajnr" /></p>
 
 ## 🔨 Languages & Frameworks & Skills ⭐️:
 
@@ -45,4 +50,8 @@
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![InteliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)  
+
+As a freelance professional, I am available to embark on exciting projects and collaborations. I take pride in delivering results that exceed expectations and contribute to the success of every venture.
+Feel free to reach out to me if you have a project in mind, a question to ask, or just want to connect. I'm enthusiastic about the possibilities that technology offers and look forward to contributing my skills to create impactful solutions.
+Let's turn ideas into reality!
