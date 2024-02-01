@@ -5,6 +5,8 @@ I'm a vibrant and innovative software craftsman based in Nairobi, Kenya. My pass
 
 With a wealth of experience, I specialize in crafting Web-Based Software, Android Applications, and captivating UI/UX Designs. My journey in the tech world is marked by a commitment to pushing boundaries and delivering high-quality solutions that make a difference.
 
+In the ever-evolving landscape of technology, my skill set serves as a testament to a journey marked by dedication, proficiency, and a passion for innovation. Here's a glimpse into the toolbox that powers my endeavors:
+
 <p>&nbsp;<img align="center" src="https://readmestats.999857.xyz/api?username=muasajnr&show_icons=true&locale=en&theme=tokyonight" alt="Muasajnr" /></p>
 
 ## 🔨 Languages & Frameworks & Skills ⭐️:
