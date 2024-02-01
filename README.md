@@ -1,7 +1,7 @@
 Greetings🙋‍♀️
 My name is 
 # Daniel Muasa
-I'm a vibrant and innovative software craftsman based in Nairobi, Kenya. My passion lies in the dynamic intersection of technology and creativity, where I thrive as a UI/UX Designer and Fullstack Software Developer.
+I'm a vibrant and innovative kenyan based software craftsman. My passion lies in the dynamic intersection of technology and creativity, where I thrive as a UI/UX Designer and Fullstack Software Developer.
 
 With a wealth of experience, I specialize in crafting Web-Based Software, Android Applications, and captivating UI/UX Designs. My journey in the tech world is marked by a commitment to pushing boundaries and delivering high-quality solutions that make a difference.
 
