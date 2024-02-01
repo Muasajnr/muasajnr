@@ -47,8 +47,7 @@ With a wealth of experience, I specialize in crafting Web-Based Software, Androi
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ### Others
-![web3](https://img.shields.io/badge/web3-E95420?style=for-the-badge&logo=web3&logoColor=white)
-
+![web3](https://img.shields.io/badge/blockchain-E95420?style=for-the-badge&logo=blockchain&logoColor=white)
 ![C++](https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?style=for-the-badge&logo=cpp2&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
