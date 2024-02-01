@@ -77,5 +77,5 @@ Let's turn ideas into reality!
 </a><br>
 
 <a href="tel:+0795147990">
-  <i class="fas fa-phone"></i> Call/sms
+  <i class="fas fa-phone"></i> Call/sms : 0795147990
 </a>
