@@ -21,7 +21,7 @@ In the ever-evolving landscape of technology, my skill set serves as a testament
 <hr>
 <p align="center">
     <a href="https://github.com/muasajnr"><span>
-        <!--<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Collins331&theme=merko" width="100%" />-->
+        <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muasajnr&theme=merko" width="100%" />
         <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=muasajnr&bg_color=000000&color=9e4c98&line=2fd22d&point=403d3d&area=true&hide_border=false" alt="muasajnr/github-readme-activity-graph">
       </span></a>
 </p>
