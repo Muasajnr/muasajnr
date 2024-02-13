@@ -1,7 +1,6 @@
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=&weight=700&size=25&pause=1000&color=3EF702&background=FFF9FC00&center=true&vCenter=true&multiline=true&random=false&width=600&height=100&lines=Greetings🙋‍♀️+there%F0%9F%96%90%2C+My+name is+Daniel+Muasa;A+Fullstack+Software+Engineer." alt="Typing SVG"/> 
+    <img src="https://readme-typing-svg.herokuapp.com?font=&weight=700&size=25&pause=1000&color=3EF702&background=FFF9FC00&center=true&vCenter=true&multiline=true&random=false&width=600&height=100&lines=Hello+there%F0%9F%96%90%2C+I'm+Collins;A+Software+Sorcerer+and+Debugging+Dynamo." alt="Typing SVG"/> 
 </div>
-
 
  
 I'm a vibrant and innovative kenyan based software craftsman. My passion lies in the dynamic intersection of technology and creativity, where I thrive as a UI/UX Designer and Fullstack Software Developer.
