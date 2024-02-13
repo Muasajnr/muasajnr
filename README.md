@@ -6,6 +6,14 @@ I'm a vibrant and innovative kenyan based software craftsman. My passion lies in
 With a wealth of experience, I specialize in crafting Web-Based Software, Android Applications, and captivating UI/UX Designs. My journey in the tech world is marked by a commitment to pushing boundaries and delivering high-quality solutions that make a difference.
 
 In the ever-evolving landscape of technology, my skill set serves as a testament to a journey marked by dedication, proficiency, and a passion for innovation. Here's a glimpse into the toolbox that powers my endeavors:
+<p align="center">
+    <a href="https://github.com/muasajnr"><span>
+        <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muasajnr&theme=merko" width="100%" />
+      <hr>
+        <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=muasajnr&bg_color=000000&color=9e4c98&line=2fd22d&point=403d3d&area=true&hide_border=false" alt="muasajnr/github-readme-activity-graph">
+      </span></a>
+</p>
+
 
 <hr>
 <div align="center">
@@ -19,13 +27,7 @@ In the ever-evolving landscape of technology, my skill set serves as a testament
     <br>
 </div>
 <hr>
-<p align="center">
-    <a href="https://github.com/muasajnr"><span>
-        <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muasajnr&theme=merko" width="100%" />
-        <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=muasajnr&bg_color=000000&color=9e4c98&line=2fd22d&point=403d3d&area=true&hide_border=false" alt="muasajnr/github-readme-activity-graph">
-      </span></a>
-</p>
-<hr>
+
 
 <p>&nbsp;<img align="center" src="https://readmestats.999857.xyz/api?username=Muasajnr&show_icons=true&locale=en&theme=tokyonight" alt="Muasajnr" /></p>
 
