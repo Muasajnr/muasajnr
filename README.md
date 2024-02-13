@@ -1,7 +1,11 @@
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=&weight=700&size=25&pause=1000&color=coral&background=FFF9FC00&center=true&vCenter=true&multiline=true&random=false&width=700&height=100&lines=Hello+there%F0%9F%96%90%2C+I'm+Daniel;A+Fullstack+Software+Engineer+and+Brand+Designer." alt="Typing SVG"/> 
 </div>
+<h2 align='center'>✍️Random Dev Quote</h2>
 
+<p align="center">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia")
+</p>
  
 I'm a vibrant and innovative kenyan based software craftsman. My passion lies in the dynamic intersection of technology and creativity, where I thrive as a UI/UX Designer and Fullstack Software Developer.
 
