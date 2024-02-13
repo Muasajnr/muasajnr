@@ -67,6 +67,11 @@ As a freelance professional, I am available to embark on exciting projects and c
 
 Feel free to reach out to me if you have a project in mind, a question to ask, a relevant business or just want to connect. I'm enthusiastic about the possibilities that technology offers and look forward to contributing my skills to create impactful solutions.
 Let's turn ideas into reality!
+<p align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=muasajnr&column=8&row=1&theme=dracula&no-frame=true" alt="Muasajnr" align="center" />
+    </a>
+</p>
 
 ### Contact Me
 # <a href="mailto:elmmwas7@gmail.com"><i class="fas fa-envelope"></i> Email</a> <br>
