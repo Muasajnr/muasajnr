@@ -7,6 +7,18 @@ With a wealth of experience, I specialize in crafting Web-Based Software, Androi
 
 In the ever-evolving landscape of technology, my skill set serves as a testament to a journey marked by dedication, proficiency, and a passion for innovation. Here's a glimpse into the toolbox that powers my endeavors:
 
+<hr>
+<div align="center">
+  <img align="left" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muasajnr&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+<p  display='flex' >&nbsp;
+  <img  height="160" src="https://github-readme-stats.vercel.app/api?username=muasajnr&count_private=true&show_icons=true&locale=en&theme=merko" alt="muasajnr" />
+    <hr>
+    <!--<img height="160" src="https://streak-stats.demolab.com/?user=Collins331&&theme=black-ice&hide_border=false&stroke=0000&background=060A0CD0" alt="Collins331">-->
+  <img  height="160"  src="https://github-readme-streak-stats.herokuapp.com/?user=muasajnr&&theme=black-ice&hide_border=false&stroke=0000&background=060A0CD0" alt="muasajnr" />
+</p>
+    <br>
+</div>
+
 <p>&nbsp;<img align="center" src="https://readmestats.999857.xyz/api?username=muasajnr&show_icons=true&locale=en&theme=tokyonight" alt="Muasajnr" /></p>
 
 ## 🔨 Languages & Frameworks & Skills ⭐️:
