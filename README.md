@@ -13,13 +13,13 @@ In the ever-evolving landscape of technology, my skill set serves as a testament
 <p  display='flex' >&nbsp;
   <img  height="160" src="https://github-readme-stats.vercel.app/api?username=muasajnr&count_private=true&show_icons=true&locale=en&theme=merko" alt="muasajnr" />
     <hr>
-    <!--<img height="160" src="https://streak-stats.demolab.com/?user=Collins331&&theme=black-ice&hide_border=false&stroke=0000&background=060A0CD0" alt="Collins331">-->
+    <img height="160" src="https://streak-stats.demolab.com/?user=muasajnr&&theme=black-ice&hide_border=false&stroke=0000&background=060A0CD0" alt="muasajnr">
   <img  height="160"  src="https://github-readme-streak-stats.herokuapp.com/?user=muasajnr&&theme=black-ice&hide_border=false&stroke=0000&background=060A0CD0" alt="muasajnr" />
 </p>
     <br>
 </div>
 
-<p>&nbsp;<img align="center" src="https://readmestats.999857.xyz/api?username=muasajnr&show_icons=true&locale=en&theme=tokyonight" alt="Muasajnr" /></p>
+<p>&nbsp;<img align="center" src="https://readmestats.999857.xyz/api?username=Muasajnr&show_icons=true&locale=en&theme=tokyonight" alt="Muasajnr" /></p>
 
 ## 🔨 Languages & Frameworks & Skills ⭐️:
 
