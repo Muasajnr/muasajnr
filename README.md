@@ -14,10 +14,10 @@ In the ever-evolving landscape of technology, my skill set serves as a testament
   <img align="left" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muasajnr&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
 <p  display='flex' >&nbsp;
   <img  height="160" src="https://github-readme-stats.vercel.app/api?username=muasajnr&count_private=true&show_icons=true&locale=en&theme=merko" alt="muasajnr" />
-    <hr>
+   
     <img height="160" src="https://streak-stats.demolab.com/?user=muasajnr&&theme=black-ice&hide_border=false&stroke=0000&background=060A0CD0" alt="muasajnr">
   <img  height="160"  src="https://github-readme-streak-stats.herokuapp.com/?user=muasajnr&&theme=black-ice&hide_border=false&stroke=0000&background=060A0CD0" alt="muasajnr" />
-</p>
+</p>  <br>
         <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=muasajnr&bg_color=000000&color=9e4c98&line=2fd22d&point=403d3d&area=true&hide_border=false" alt="muasajnr/github-readme-activity-graph">
       </span></a>
 </p>
