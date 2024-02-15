@@ -33,10 +33,7 @@ In the ever-evolving landscape of technology, my skill set serves as a testament
 
    
 </div>
-<hr>
 
-
-<p>&nbsp;<img align="center" src="https://readmestats.999857.xyz/api?username=Muasajnr&show_icons=true&locale=en&theme=tokyonight" alt="Muasajnr" /></p>
 
 ## 🔨 Languages & Frameworks & Skills ⭐️:
 
