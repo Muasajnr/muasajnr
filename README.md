@@ -92,7 +92,7 @@ Let's turn ideas into reality!
    
 </div>
 <hr>
-## Github Achievements
+<b>Github Achievements</b> 
 <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=muasajnr&column=8&row=1&theme=dracula&no-frame=true" alt="Muasajnr" align="center" />
