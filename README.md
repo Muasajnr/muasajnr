@@ -79,6 +79,24 @@ As a freelance professional, I am available to embark on exciting projects and c
 
 Feel free to reach out to me if you have a project in mind, a question to ask, a relevant business or just want to connect. I'm enthusiastic about the possibilities that technology offers and look forward to contributing my skills to create impactful solutions.
 Let's turn ideas into reality!
+ <div align="center">
+  <img align="left" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muasajnr&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+<p  display='flex' >&nbsp;
+  <img  height="160" src="https://github-readme-stats.vercel.app/api?username=muasajnr&count_private=true&show_icons=true&locale=en&theme=merko" alt="muasajnr" />
+    <hr>
+    <img height="160" src="https://streak-stats.demolab.com/?user=muasajnr&&theme=black-ice&hide_border=false&stroke=0000&background=060A0CD0" alt="muasajnr">
+  <img  height="160"  src="https://github-readme-streak-stats.herokuapp.com/?user=muasajnr&&theme=black-ice&hide_border=false&stroke=0000&background=060A0CD0" alt="muasajnr" />
+</p>  <br>
+        <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=muasajnr&bg_color=000000&color=9e4c98&line=2fd22d&point=403d3d&area=true&hide_border=false" alt="muasajnr/github-readme-activity-graph">
+      </span></a>
+</p>
+
+
+<hr>
+
+   
+</div>
+# Github Achievements
 <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=muasajnr&column=8&row=1&theme=dracula&no-frame=true" alt="Muasajnr" align="center" />
