@@ -6,13 +6,8 @@
         <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muasajnr&theme=merko" width="100%" />
     </span>
     </a></p>
-      <hr>
-<h2 align='center'>✍️Random Dev Quote</h2>
-
-<p align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia")
-</p>
  
+ <hr>
 I'm a vibrant and innovative kenyan based software craftsman. My passion lies in the dynamic intersection of technology and creativity, where I thrive as a UI/UX Designer and Fullstack Software Developer.
 
 With a wealth of experience, I specialize in crafting Web-Based Software, Android Applications, and captivating UI/UX Designs. My journey in the tech world is marked by a commitment to pushing boundaries and delivering high-quality solutions that make a difference.
@@ -96,12 +91,20 @@ Let's turn ideas into reality!
 
    
 </div>
-# Github Achievements
+<hr>
+## Github Achievements
 <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=muasajnr&column=8&row=1&theme=dracula&no-frame=true" alt="Muasajnr" align="center" />
     </a>
 </p>
+     <hr>
+<h2 align='center'>✍️Random Dev Quote</h2>
+
+<p align="center">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia")
+</p>
+<hr>
 
 ### Contact Me
 # <a href="mailto:elmmwas7@gmail.com"><i class="fas fa-envelope"></i> Email</a> <br>
