@@ -1,6 +1,10 @@
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=&weight=700&size=25&pause=1000&color=coral&background=FFF9FC00&center=true&vCenter=true&multiline=true&random=false&width=700&height=100&lines=Hello+there%F0%9F%96%90%2C+I'm+Daniel;A+Fullstack+Software+Engineer+and+Brand+Designer." alt="Typing SVG"/> 
 </div>
+<p align="center">
+    <a href="https://github.com/muasajnr"><span>
+        <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muasajnr&theme=merko" width="100%" />
+      <hr>
 <h2 align='center'>✍️Random Dev Quote</h2>
 
 <p align="center">
@@ -12,10 +16,7 @@ I'm a vibrant and innovative kenyan based software craftsman. My passion lies in
 With a wealth of experience, I specialize in crafting Web-Based Software, Android Applications, and captivating UI/UX Designs. My journey in the tech world is marked by a commitment to pushing boundaries and delivering high-quality solutions that make a difference.
 
 In the ever-evolving landscape of technology, my skill set serves as a testament to a journey marked by dedication, proficiency, and a passion for innovation. Here's a glimpse into the toolbox that powers my endeavors:
-<p align="center">
-    <a href="https://github.com/muasajnr"><span>
-        <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muasajnr&theme=merko" width="100%" />
-      <hr>
+
         <div align="center">
   <img align="left" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muasajnr&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
 <p  display='flex' >&nbsp;
