@@ -4,6 +4,8 @@
 <p align="center">
     <a href="https://github.com/muasajnr"><span>
         <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muasajnr&theme=merko" width="100%" />
+    </span>
+    </a></p>
       <hr>
 <h2 align='center'>✍️Random Dev Quote</h2>
 
