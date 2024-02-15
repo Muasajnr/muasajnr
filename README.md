@@ -91,7 +91,7 @@ Let's turn ideas into reality!
 
    
 </div>
-<hr>
+
 <b>Github Achievements</b> 
 <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
