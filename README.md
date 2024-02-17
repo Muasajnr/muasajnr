@@ -80,6 +80,7 @@ Let's turn ideas into reality!
   <img  height="160" src="https://github-readme-stats.vercel.app/api?username=muasajnr&count_private=true&show_icons=true&locale=en&theme=merko" alt="muasajnr" />
     <hr>
     <img height="160" src="https://streak-stats.demolab.com/?user=muasajnr&&theme=black-ice&hide_border=false&stroke=0000&background=060A0CD0" alt="muasajnr">
+    <hr>
   <img  height="160"  src="https://github-readme-streak-stats.herokuapp.com/?user=muasajnr&&theme=black-ice&hide_border=false&stroke=0000&background=060A0CD0" alt="muasajnr" />
 </p>  <br>
         <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=muasajnr&bg_color=000000&color=9e4c98&line=2fd22d&point=403d3d&area=true&hide_border=false" alt="muasajnr/github-readme-activity-graph">
