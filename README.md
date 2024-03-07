@@ -78,7 +78,7 @@ Let's turn ideas into reality!
   <img align="left" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muasajnr&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
 
      <p  display='flex' >&nbsp;
-     ![muasajnr's Contributions](https://github-readme-streak-stats.herokuapp.com/?user=muasajnr&&theme=dracula)
+![muasajnr's Contributions](https://github-readme-streak-stats.herokuapp.com/?user=muasajnr&&theme=dracula)
 ![muasajnr's GitHub stats](https://github-readme-stats.vercel.app/api?username=muasajnr&show_icons=true&theme=dracula)
 ![muasajnr's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muasajnr&langs_count=20&theme=dracula&layout=compact) 
 ![muasajnr's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=muasajnr&theme=dracula&height=50&layout=compact)
