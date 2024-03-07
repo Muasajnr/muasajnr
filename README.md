@@ -82,6 +82,7 @@ Let's turn ideas into reality!
 ![muasajnr's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muasajnr&langs_count=20&theme=dracula&layout=compact)
 ![muasajnr's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=muasajnr&theme=dracula&height=50&layout=compact)
    <br>
+   <hr>
         <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=muasajnr&bg_color=000000&color=9e4c98&line=2fd22d&point=403d3d&area=true&hide_border=false" alt="muasajnr/github-readme-activity-graph">
 
         
