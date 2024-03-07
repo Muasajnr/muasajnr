@@ -75,9 +75,7 @@ As a freelance professional, I am available to embark on exciting projects and c
 Feel free to reach out to me if you have a project in mind, a question to ask, a relevant business or just want to connect. I'm enthusiastic about the possibilities that technology offers and look forward to contributing my skills to create impactful solutions.
 Let's turn ideas into reality!
  <div align="center">
-  <img align="left" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?
-  username=muasajnr&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages"/>
-
+  
      <p  display='flex' >&nbsp;
 ![muasajnr's Contributions](https://github-readme-streak-stats.herokuapp.com/?user=muasajnr&&theme=dracula)
 ![muasajnr's GitHub stats](https://github-readme-stats.vercel.app/api?username=muasajnr&show_icons=true&theme=dracula)
