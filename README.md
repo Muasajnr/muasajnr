@@ -81,6 +81,7 @@ Let's turn ideas into reality!
 ![muasajnr's GitHub stats](https://github-readme-stats.vercel.app/api?username=muasajnr&show_icons=true&theme=dracula)
 ![muasajnr's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muasajnr&langs_count=20&theme=dracula&layout=compact)
 ![muasajnr's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=muasajnr&theme=dracula&height=50&layout=compact)
+<div
 <img src="https://api.github.com/repos/muasajnr/repos/commits?s=week&token=YOUR_ACCESS_TOKEN" alt="muasajnr's Commit Graph">
 
    <br>
