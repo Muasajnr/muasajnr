@@ -79,10 +79,10 @@ Let's turn ideas into reality!
   username=muasajnr&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages"/>
 
      <p  display='flex' >&nbsp;
-![muasajnr's Contributions](https://github-readme-streak-stats.herokuapp.com/?user=muasajnr&&theme=dracula)
-![muasajnr's GitHub stats](https://github-readme-stats.vercel.app/api?username=muasajnr&show_icons=true&theme=dracula)
-![muasajnr's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muasajnr&langs_count=20&theme=dracula&layout=compact)
-![muasajnr's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=muasajnr&theme=dracula&height=50&layout=compact)
+        ![muasajnr's Contributions](https://github-readme-streak-stats.herokuapp.com/?user=muasajnr&&theme=dracula)
+        ![muasajnr's GitHub stats](https://github-readme-stats.vercel.app/api?username=muasajnr&show_icons=true&theme=dracula)
+        ![muasajnr's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muasajnr&langs_count=20&theme=dracula&layout=compact)
+        ![muasajnr's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=muasajnr&theme=dracula&height=50&layout=compact)
   <img  height="180" src="https://github-readme-stats.vercel.app/api?username=muasajnr&count_private=true&show_icons=true&locale=en&theme=merko" alt="muasajnr" />
     <hr>
     <img height="160" src="https://streak-stats.demolab.com/?user=muasajnr&&theme=black-ice&hide_border=false&stroke=0000&background=060A0CD0" alt="muasajnr">
