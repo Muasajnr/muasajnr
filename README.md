@@ -80,7 +80,7 @@ Let's turn ideas into reality!
 ![muasajnr's Contributions](https://github-readme-streak-stats.herokuapp.com/?user=muasajnr&&theme=dracula)
 ![muasajnr's GitHub stats](https://github-readme-stats.vercel.app/api?username=muasajnr&show_icons=true&theme=dracula)
 ![muasajnr's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muasajnr&langs_count=20&theme=dracula&layout=compact)
-![muasajnr's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=muasajnr&theme=dracula&height=50&layout=compact)
+
 
 
    <br>
