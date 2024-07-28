@@ -63,8 +63,8 @@ In the ever-evolving landscape of technology, my skill set serves as a testament
 ![Remix](https://img.shields.io/badge/remix-000000?style=for-the-badge&logo=remix&logoColor=white)  
 ![github](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=plastic&logo=cmake&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
 ### Graphics Design
-![C](https://img.shields.io/badge/adobe%20illustrator-%2331A8FF.svg?style=plastic&logo=adobe%20illustrator&logoColor=white) ![CSS3](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) 
-(https://img.shields.io/badge/adobe%20illustrator-%2331A8FF.svg?style=plastic&logo=adobe%20illustrator&logoColor=white)
+![C](https://img.shields.io/badge/adobe%20illustrator-%2331A8FF.svg?style=plastic&logo=adobe%20illustrator&logoColor=white) [CSS3](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) 
+
 ### UI/UX Designs
 ![Figma](https://img.shields.io/badge/Figma-%2300C4CC.svg?style=plastic&logo=Figma&logoColor=white) 
  
