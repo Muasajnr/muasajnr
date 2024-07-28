@@ -64,7 +64,6 @@ In the ever-evolving landscape of technology, my skill set serves as a testament
 ![C](https://img.shields.io/badge/adobe%20illustrator-%2331A8FF.svg?style=plastic&logo=adobe%20illustrator&logoColor=white)[](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) 
 
 ### UI/UX Designs
-![Figma](https://img.shields.io/badge/Figma-%2300C4CC.svg?style=plastic&logo=Figma&logoColor=white) 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/canva-000000?style=for-the-badge&logo=canva&logoColor=white)
  
