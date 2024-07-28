@@ -1,4 +1,4 @@
-# ðŸ’» ENG Muasajnr 
+# 💻 Muasajnr 
 <h3>Software Developer</h3>
 I'm a vibrant and innovative kenyan based software craftsman. My passion lies in the dynamic intersection of technology and creativity, where I thrive as a UI/UX Designer and Fullstack Software Developer.
 
@@ -7,8 +7,7 @@ With a wealth of experience, I specialize in crafting Web-Based Software, Androi
 In the ever-evolving landscape of technology, my skill set serves as a testament to a journey marked by dedication, proficiency, and a passion for innovation. Here's a glimpse into the toolbox that powers my endeavors:
 
 ---
-##  Tech Stack:
-## Languages & Frameworks & Skills:
+## 👩‍🏫 Tech Stack:
 
 ### Web Design & Development:
 #### Frontend:
@@ -60,6 +59,7 @@ In the ever-evolving landscape of technology, my skill set serves as a testament
 ![Chatgpt](https://img.shields.io/badge/chatgpt-0052CC?style=for-the-badge&logo=chatgpt&logoColor=white)
 ![Remix](https://img.shields.io/badge/remix-000000?style=for-the-badge&logo=remix&logoColor=white)  
 ![github](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=plastic&logo=cmake&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
+
 ### Graphics Design
 ![C](https://img.shields.io/badge/adobe%20illustrator-%2331A8FF.svg?style=plastic&logo=adobe%20illustrator&logoColor=white)[](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) 
 
@@ -79,18 +79,18 @@ Let's turn ideas into reality!
 
 
 ---
-## ðŸŒ Socials:
+## 🥉 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/users/1018839116756025424) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/kingtenya39) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kingtenya39) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/enshikuku) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@shii_039) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/enshikuku) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@enshikuku) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/enshikuku) 
 
 ---
-## ðŸ”­ Currently working on
+## Currently working on
 <a href="https://github.com/orgs/calatech"><img src='https://res.cloudinary.com/dlkqilyi0/image/upload/v1719393138/COVER_lbmnif.png'></a>
 
 ---
 
 
 ---
-## ðŸ“Š GitHub Stats:
+## ✳ GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=muasajnr&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 ---
@@ -100,15 +100,15 @@ Let's turn ideas into reality!
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=muasajnr&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-## ðŸ† GitHub Trophies
+## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=muasajnr&theme=blue_navy&no-frame=true&no-bg=true&margin-w=4)
 
 ---
-## âœï¸ Random Dev Quote
+## 📖 Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
-## ðŸ” Top Contributed Repo
+## 🔝 Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=muasajnr&limit=5&theme=blue_navy&combine_all_yearly_contributions=true)
 
 ---
