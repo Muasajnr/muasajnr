@@ -54,8 +54,6 @@ In the ever-evolving landscape of technology, my skill set serves as a testament
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### IDEs and Tools:
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/canva-000000?style=for-the-badge&logo=canva&logoColor=white)
 ![Pycharm](https://img.shields.io/badge/pycharm-F9AB00?style=for-the-badge&logo=pycharm&color=525252)
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![InteliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
@@ -67,6 +65,8 @@ In the ever-evolving landscape of technology, my skill set serves as a testament
 
 ### UI/UX Designs
 ![Figma](https://img.shields.io/badge/Figma-%2300C4CC.svg?style=plastic&logo=Figma&logoColor=white) 
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/canva-000000?style=for-the-badge&logo=canva&logoColor=white)
  
 As a freelance professional, I am available to embark on exciting projects and collaborations. I take pride in delivering results that exceed expectations and contribute to the success of every venture.
 
