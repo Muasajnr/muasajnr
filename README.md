@@ -61,7 +61,7 @@ In the ever-evolving landscape of technology, my skill set serves as a testament
 ![InteliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Chatgpt](https://img.shields.io/badge/chatgpt-0052CC?style=for-the-badge&logo=chatgpt&logoColor=white)
 ![Remix](https://img.shields.io/badge/remix-000000?style=for-the-badge&logo=remix&logoColor=white)  
-![github](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=plastic&logo=cmake&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)](url)
+![github](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=plastic&logo=cmake&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
 
 As a freelance professional, I am available to embark on exciting projects and collaborations. I take pride in delivering results that exceed expectations and contribute to the success of every venture.
 
